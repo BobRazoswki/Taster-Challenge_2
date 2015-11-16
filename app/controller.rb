@@ -3,7 +3,7 @@ require 'sinatra'
 # require 'rack-flash'
 # require 'rest_client'
 # require_relative "models/"
-require_relative "controllers/index"
+# require_relative "/index"
 # require_relative "views/index"
 # require_relative 'data_mapper_setup'
 set :root, File.dirname(__FILE__)
